@@ -11,13 +11,6 @@ This project focuses on **analyzing call center performance metrics** using **Ex
 
 ---
 
-## 🏗️ Tech Stack  
-- **📊 Power BI** - Interactive dashboards for data visualization.  
-- **📜 SQL** - Data extraction, transformation, and trend analysis.  
-- **📑 Excel** - Data cleaning and initial exploration.  
-
----
-
 ## 📈 Dashboards & Visualizations  
 
 🎯 The project uses **Power BI** for dynamic and interactive visualizations.  
@@ -27,6 +20,14 @@ This project focuses on **analyzing call center performance metrics** using **Ex
 
 ![Dashboard](dashboard.jpg)
 
+---
+
+## 🏗️ Tech Stack  
+- **📊 Power BI** - Interactive dashboards for data visualization.  
+- **📜 SQL** - Data extraction, transformation, and trend analysis.  
+- **📑 Excel** - Data cleaning and initial exploration.  
+
+---
 
 ## 🎯 Key Objectives  
 - ✅ **Agent Performance Analysis**: Evaluate call handling, response time, and customer satisfaction.  
